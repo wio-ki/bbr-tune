@@ -1,3 +1,3 @@
 ```
-bash <(curl -s https://raw.githubusercontent.com/wio-ki/bbr-/refs/heads/main/bbr-tune.sh)
+bash <(curl -s https://raw.githubusercontent.com/wio-ki/bbr-tune/refs/heads/main/bbr-tune.sh)
 ```
